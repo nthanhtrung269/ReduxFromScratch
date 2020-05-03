@@ -63,5 +63,6 @@ Solution
 - **Run locally**
   - Open cmd
   - npm install
+  - npm start
   
 ## Application UI
