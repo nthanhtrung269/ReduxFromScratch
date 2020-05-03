@@ -11,3 +11,5 @@ store.dispatch(bugAdded('Bug1'));
 unsubscribe();
 
 console.log(store);
+
+// TODO: implement for bug resolved
