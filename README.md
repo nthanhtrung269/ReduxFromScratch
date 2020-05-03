@@ -19,7 +19,7 @@ Higher-order Functions
 
 Functional Composition
 
-Composing and Piping
+[Composing and Piping](https://lodash.com/)
 
 Currying
 
